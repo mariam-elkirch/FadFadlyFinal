@@ -14,3 +14,12 @@ learning.</br>
 
 ## Application As Doctor </br>
 <img src="https://github.com/mariam-elkirch/Videos/blob/master/doctor.gif" alt="fadfadly gif" title="fadfadly gif" width="500"/>
+
+
+# Tools & Libraries
+* <a href="https://www.cs.waikato.ac.nz/ml/weka/">Weka</a> (Machine Learning)
+* <a href="https://weka.sourceforge.io/doc.dev/weka/classifiers/trees/LMT.html">Logistic Model Tree</a> (Machine Learning Algorithm)
+* <a href="https://firebase.google.com/">Firebase</a> (database)
+* <a href="https://square.github.io/picasso/">Picasso</a> (image loading)
+
+
